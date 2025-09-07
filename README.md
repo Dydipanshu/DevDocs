@@ -18,7 +18,7 @@
 
 ```
 
-git clone https://github.com/SecondMikasa/DevDocs.git
+git clone https://github.com/dydipanshu/DevDocs.git
 
 cd devdraws
 
@@ -71,9 +71,6 @@ We welcome contributions! Follow these steps:
 - Make your changes and commit with a clear message.
 - Submit a Pull Request (PR) for review.
 
-## 🤝 Connect
-
-For support or suggestions, feel free to open an issue or [contact us!](mailto:kumararnim1@vivaldi.net)
 
 ## Learn More
 
